@@ -1,0 +1,15 @@
+body{
+    background-color: white;
+}
+.sidebar{
+    background-color:black;
+    color:white;
+
+}
+.nav-footer a, .nav>li>a {
+    color:white;
+}
+
+.site-brand{
+    color:white;
+}
